@@ -1,111 +1,65 @@
-<div align="center">
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #05070d; }
+    .grid { stroke: #132033; stroke-width: 1; opacity: .55; }
+    .cyan { fill: #00e5ff; }
+    .white { fill: #f5f7ff; }
+    .muted { fill: #7d8da8; }
+    .green { fill: #39ff88; }
+    .line { stroke: #00e5ff; stroke-width: 2; opacity: .75; }
+    .glow { filter: drop-shadow(0 0 10px #00e5ff); }
+    .scan { animation: scan 3s linear infinite; }
+    .blink { animation: blink 1s steps(2) infinite; }
+    .float { animation: float 4s ease-in-out infinite; }
+    .pulse { animation: pulse 2s ease-in-out infinite; }
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+sys.boot(%22anmol-os%22);Turning+curiosity+%26+code+into+things+that+work;First-year+CSE+student;WebGL+%7C+Linux+%7C+Algorithms+%7C+Creative+Engineering" />
+    @keyframes scan {
+      from { transform: translateY(-120px); }
+      to { transform: translateY(420px); }
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+    @keyframes float {
+      50% { transform: translateY(-10px); }
+    }
+    @keyframes pulse {
+      50% { opacity: .35; }
+    }
 
-</div>
+    text {
+      font-family: JetBrains Mono, Consolas, monospace;
+    }
+  </style>
 
-```txt
-╭──────────────────────────── ANMOL-OS v1.0 ────────────────────────────╮
-│                                                                        │
-│  USER        : Anmol Kumar                                             │
-│  MODE        : First-year CSE Student                                  │
-│  BUILD       : Curious / Experimental / Debugging-heavy                │
-│  FOCUS       : Linux, Algorithms, WebGL, Creative Engineering          │
-│  FLAGSHIP    : Personal Portfolio                                      │
-│  STATUS      : Building things that actually work                      │
-│                                                                        │
-╰────────────────────────────────────────────────────────────────────────╯
-```
+  <rect class="bg" width="1200" height="420"/>
 
-<div align="center">
+  <g opacity=".55">
+    <path class="grid" d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200M0 360H1200"/>
+    <path class="grid" d="M80 0V420M160 0V420M240 0V420M320 0V420M400 0V420M480 0V420M560 0V420M640 0V420M720 0V420M800 0V420M880 0V420M960 0V420M1040 0V420M1120 0V420"/>
+  </g>
 
-### `mission.trace`
+  <rect x="70" y="55" width="1060" height="310" rx="22" fill="#0b1020" stroke="#1d3557"/>
+  <rect x="70" y="55" width="1060" height="48" rx="22" fill="#101827"/>
+  <circle cx="105" cy="79" r="7" fill="#ff5f57"/>
+  <circle cx="130" cy="79" r="7" fill="#ffbd2e"/>
+  <circle cx="155" cy="79" r="7" fill="#28c840"/>
 
-</div>
+  <text x="95" y="150" class="muted" font-size="18">$ whoami</text>
+  <text x="95" y="205" class="white glow" font-size="54" font-weight="800">ANMOL KUMAR</text>
+  <text x="95" y="248" class="cyan" font-size="22">B.Tech CSE Student · Web Dev · Debugging Reality</text>
+  <text x="95" y="295" class="muted" font-size="18">build → break → debug → understand</text>
+  <rect class="blink" x="565" y="276" width="12" height="24" fill="#00e5ff"/>
 
-```js
-const anmol = {
-  identity: "First-year CSE Student",
-  aim: "turn curiosity and code into things that actually work",
-  learning: ["Linux", "JavaScript", "Algorithms", "WebGL", "Frontend"],
-  mindset: "understand the crash, don't just copy the fix",
-  currentState: "building, breaking, debugging, upgrading",
-  portfolio: "anmolkumar-portfolio.netlify.app"
-};
-```
+  <g class="float">
+    <rect x="760" y="135" width="285" height="150" rx="16" fill="#05070d" stroke="#00e5ff" opacity=".95"/>
+    <text x="790" y="175" class="green" font-size="17">const mission = {</text>
+    <text x="815" y="210" class="white" font-size="16">learn: "deeply",</text>
+    <text x="815" y="240" class="white" font-size="16">build: "clean UI",</text>
+    <text x="815" y="270" class="white" font-size="16">copyPaste: false</text>
+    <text x="790" y="300" class="green" font-size="17">}</text>
+  </g>
 
-<div align="center">
-
-### `core.stack`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,git,github,linux,vscode&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-### `portfolio.signal`
-
-<a href="https://anmolkumar-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-ANMOL_OS-38BDF8?style=for-the-badge&labelColor=020617" />
-</a>
-
-<a href="mailto:anmol.builds@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT_SIGNAL-22C55E?style=for-the-badge&labelColor=020617" />
-</a>
-
-</div>
-
-```txt
-> sys.boot("anmol-os")
-> Loading creative developer interface...
-> Initializing WebGL visuals...
-> Checking curiosity engine...
-> Status: online
-```
-
-<div align="center">
-
-### `github.telemetry`
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anmolop97&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB&icon_color=22C55E" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Anmolop97&hide_border=true&background=020617&stroke=38BDF8&ring=38BDF8&fire=22C55E&currStreakLabel=E5E7EB&sideLabels=38BDF8&dates=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anmolop97&bg_color=020617&color=E5E7EB&line=38BDF8&point=22C55E&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### `live.links`
-
-<a href="https://anmolkumar-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Launch_Portfolio-020617?style=for-the-badge&logo=netlify&logoColor=38BDF8&labelColor=020617&color=38BDF8" />
-</a>
-
-<a href="https://github.com/Anmolop97">
-  <img src="https://img.shields.io/badge/GitHub_Profile-020617?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=020617&color=22C55E" />
-</a>
-
-</div>
-
-```txt
-while (learning) {
-  build();
-  break();
-  debug();
-  understand();
-  upgrade();
-}
-```
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Anmolop97&style=for-the-badge&color=38BDF8&label=PROFILE+SIGNALS" />
-
-</div>
+  <line class="scan" x1="70" y1="0" x2="1130" y2="0" stroke="#00e5ff" stroke-width="3" opacity=".35"/>
+  <circle class="pulse glow" cx="1090" cy="332" r="10" fill="#00e5ff"/>
+</svg>
