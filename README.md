@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f2027,50:203a43,100:2c5364&text=ANMOL%20KUMAR&fontColor=ffffff&fontSize=58&animation=twinkling&stroke=00f5ff&strokeWidth=1"/>
+<img src="./assets/logo.png" width="90" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=console.log(%22building...%22);B.Tech+CSE+Student;Web+Dev+%7C+Logic+%7C+Debugging;I+don't+just+copy+code%2C+I+interrogate+it." />
+<h1>ANMOL KUMAR</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=%3E+sys.boot(%22anmol-os%22);Turning+curiosity+%26+code+into+things+that+work;First-year+CSE+student;WebGL+%7C+Linux+%7C+Algorithms+%7C+Creative+Engineering" />
 
 </div>
 
