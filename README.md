@@ -1,18 +1,19 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Anmol%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Learning+Web+Development;I+build%2C+break%2C+debug%2C+repeat;Trying+to+understand+computers+deeply" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f2027,50:203a43,100:2c5364&text=ANMOL%20KUMAR&fontColor=ffffff&fontSize=58&animation=twinkling&stroke=00f5ff&strokeWidth=1"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=console.log(%22building...%22);B.Tech+CSE+Student;Web+Dev+%7C+Logic+%7C+Debugging;I+don't+just+copy+code%2C+I+interrogate+it." />
+
+</div>
 
 ---
 
-### `whoami`
-
-```js
-const anmol = {
-  role: "B.Tech CSE Student",
-  focus: "Web Development + Programming Fundamentals",
-  learning: ["JavaScript", "HTML", "CSS", "Git", "GitHub"],
-  vibe: "less copy-paste, more actually understanding it",
-  currentMission: "build projects that look good and teach something"
-};
+```txt
+┌── anmol@github
+│
+├── status      : learning, building, debugging
+├── field       : Computer Science Engineering
+├── focus       : Web Development + Programming Fundamentals
+├── mindset     : understand first, decorate later
+├── weakness    : overthinking simple bugs
+└── rule        : build → break → fix → understand
