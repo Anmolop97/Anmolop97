@@ -1,64 +1,18 @@
-<h1 align="center">Hi, I'm Anmol Kumar</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Anmol%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
-  B.Tech CSE student | Web developer | Learning by building
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Learning+Web+Development;I+build%2C+break%2C+debug%2C+repeat;Trying+to+understand+computers+deeply" />
 </p>
 
 ---
 
-### About me
+### `whoami`
 
-I enjoy programming, understanding how things work, and building small projects that teach me something new.
-
-- Currently learning: JavaScript, HTML, CSS, GitHub
-- Interested in: frontend development, problem solving, open source
-- Building: portfolio projects and web experiments
-
----
-
-### Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
-
----
-
-### Featured projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [My Portfolio](https://github.com/Anmolop97/My-portfolio..) | Personal portfolio website | JavaScript |
-| [The Hellspires](https://github.com/Anmolop97/TheHellspires) | Web project/game/site | HTML |
-| [git11](https://github.com/Anmolop97/git11) | Practice repository | Git |
-
----
-
-### GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Anmolop97&show_icons=true&theme=github_dark" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolop97&layout=compact&theme=github_dark" />
-</p>
-
----
-
-### Contact
-
-- Email: anmolkumar2762@gmail.com
-- GitHub: [@Anmolop97](https://github.com/Anmolop97)
-
-<!--
-**Anmolop97/Anmolop97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const anmol = {
+  role: "B.Tech CSE Student",
+  focus: "Web Development + Programming Fundamentals",
+  learning: ["JavaScript", "HTML", "CSS", "Git", "GitHub"],
+  vibe: "less copy-paste, more actually understanding it",
+  currentMission: "build projects that look good and teach something"
+};
