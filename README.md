@@ -12,8 +12,7 @@
 
   <p align="center">
     <a href="https://github.com/Anmolop97"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:anmol@example.com"><img src="https://img.shields.io/badge/Contact-Direct_Mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Anmolop97&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <a href="https://github.com/Anmolop97/Agent-Skills"><img src="https://img.shields.io/badge/Featured_Project-Agent--Skills-00C853?style=for-the-badge&logo=codeforces&logoColor=white" alt="Agent-Skills" /></a>
   </p>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=%3E+sys.boot(%22anmol-os%22)...;Crafting+high-performance+web+apps+%26+modern+UI;Building+autonomous+Agentic+AI+tools+%26+Skills;Turning+curiosity+%26+clean+code+into+real+products" alt="Typing SVG" />
