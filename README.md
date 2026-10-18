@@ -11,30 +11,21 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/Anmolop97"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://github.com/Anmolop97/Agent-Skills"><img src="https://img.shields.io/badge/Featured_Project-Agent--Skills-00C853?style=for-the-badge&logo=codeforces&logoColor=white" alt="Agent-Skills" /></a>
+    <a href="https://portfolio.anmolkumar.workers.dev"><img src="https://img.shields.io/badge/Live_Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://github.com/Anmolop97/Agent-Skills"><img src="https://img.shields.io/badge/Featured-Agent--Skills-00C853?style=for-the-badge&logo=codeforces&logoColor=white" alt="Agent-Skills" /></a>
+    <a href="mailto:anmolkumar2762@gmail.com"><img src="https://img.shields.io/badge/Direct_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=%3E+sys.boot(%22anmol-os%22)...;Crafting+high-performance+web+apps+%26+modern+UI;Building+autonomous+Agentic+AI+tools+%26+Skills;Turning+curiosity+%26+clean+code+into+real+products" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### 💻 `sys.info()`
+### ⚡ About Me
 
-```bash
-╭────────────────────────────────────────────────────────────────────────╮
-│  anmol@workstation:~$ neofetch                                         │
-├────────────────────────────────────────────────────────────────────────┤
-│  OS          : Linux / Windows 11 Pro                                  │
-│  Role        : Computer Science & Creative Engineering                 │
-│  Focus       : High-Performance Web Apps, Agentic AI, UI/UX Systems    │
-│  Philosophy  : Understand deep, build clean, break, fix, iterate       │
-│  Superpower  : Turning raw ideas into polished interactive software    │
-│  Current Obsession : Agent Skills, WebGL, React 19 & Tailwind v4       │
-╰────────────────────────────────────────────────────────────────────────╯
-```
+- 🚀 **Focus**: High-performance web applications, fluid UI interactions, and autonomous AI tooling.
+- 🛠️ **Core Stack**: React 19, TypeScript, Next.js, Vite, Tailwind CSS v4, and Node.js.
+- 💡 **Mindset**: Deep-dive into fundamentals, write deterministic clean code, build fast and iterate.
+- 🔭 **Current Work**: Developing **[Agent-Skills](https://github.com/Anmolop97/Agent-Skills)** (universal skills for AI coding agents) & **[TheHellspires](https://github.com/Anmolop97/TheHellspires)**.
 
 ---
 
