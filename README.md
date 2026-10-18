@@ -3,7 +3,7 @@
   <img src="./assets/logo.png" width="110" alt="Anmol Kumar Logo" style="filter: drop-shadow(0px 0px 18px rgba(56, 189, 248, 0.4));" />
 
   <h1 align="center" style="font-weight: 800; font-size: 2.4rem; margin-top: 10px; margin-bottom: 5px;">
-    ⚡ ANMOL KUMAR
+    ANMOL KUMAR
   </h1>
 
   <p align="center">
