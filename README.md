@@ -28,37 +28,6 @@
 
 ---
 
-### 🚀 Flagship Open Source
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ <a href="https://github.com/Anmolop97/Agent-Skills">Agent-Skills</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Anmolop97/Agent-Skills?style=flat-square&color=ffd700&label=Stars" alt="Stars" />
-        <img src="https://img.shields.io/github/forks/Anmolop97/Agent-Skills?style=flat-square&color=38bdf8&label=Forks" alt="Forks" />
-        <img src="https://img.shields.io/github/license/Anmolop97/Agent-Skills?style=flat-square&color=10b981" alt="License" />
-      </p>
-      <p align="center">
-        The universal skill vault for AI coding assistants (Antigravity, Claude Code, Cursor, MCP). Automated workflows, testing pipelines, and deterministic quality gates.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 <a href="https://github.com/Anmolop97/My-portfolio">Interactive 3D Portfolio</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Anmolop97/My-portfolio?style=flat-square&color=ffd700&label=Stars" alt="Stars" />
-        <img src="https://img.shields.io/badge/Live-Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-        <img src="https://img.shields.io/badge/WebGL-Three.js-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
-      </p>
-      <p align="center">
-        Hardware-accelerated 3D workstation portfolio featuring Three.js physics, 60 FPS frame pacing, Lenis inertia scrolling, and edge caching.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ Tech Stack & Engineering Arsenal
 
 <div align="center">
