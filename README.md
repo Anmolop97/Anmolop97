@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <a href="https://portfolio.anmolkumar.workers.dev"><img src="https://img.shields.io/badge/Live_Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://portfolio.anmolkumar.workers.dev"><img src="https://img.shields.io/badge/Anmol_Kumar_Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Anmol Kumar Portfolio" /></a>
     <a href="https://github.com/Anmolop97?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
     <a href="mailto:anmolkumar2762@gmail.com"><img src="https://img.shields.io/badge/Direct_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
