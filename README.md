@@ -20,19 +20,19 @@
 
 ---
 
-### ⚡ About Me
+###  About Me
 
-- 🔭 **Engineering**: Building resilient full-stack systems, fluid interactive web applications, and autonomous AI developer tooling.
-- ⚡ **Core Philosophy**: Master fundamentals, write deterministic clean code, optimize for performance, and iterate with velocity.
-- 🛠️ **Environment**: Full-Stack TypeScript/JavaScript, React/Next.js ecosystem, modern CSS architectures, and agentic workflows.
+-  **Engineering**: Building resilient full-stack systems, fluid interactive web applications, and autonomous AI developer tooling.
+-  **Core Philosophy**: Master fundamentals, write deterministic clean code, optimize for performance, and iterate with velocity.
+-  **Environment**: Full-Stack TypeScript/JavaScript, React/Next.js ecosystem, modern CSS architectures, and agentic workflows.
 
 ---
 
-### 🛠️ Tech Stack & Engineering Arsenal
+###  Tech Stack & Engineering Arsenal
 
 <div align="center">
 
-  #### 🌐 Languages & Core
+  ####  Languages & Core
   <p>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
 
-  #### ⚛️ Frameworks, UI & Libraries
+  ####  Frameworks, UI & Libraries
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   </p>
 
-  #### 🤖 AI, Tooling & DevOps
+  ####  AI, Tooling & DevOps
   <p>
     <img src="https://img.shields.io/badge/Antigravity_Agent-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" />
     <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -66,7 +66,7 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+###  GitHub Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anmolop97&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" width="49%" alt="Anmol's GitHub Stats" />
