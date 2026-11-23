@@ -1,14 +1,6 @@
 <div align="center">
 
-  <img src="./assets/logo.png" width="95" alt="Anmol Kumar Logo" style="filter: drop-shadow(0px 0px 22px rgba(16, 185, 129, 0.45));" />
-
-  <h1 align="center" style="font-weight: 800; font-size: 2.2rem; margin-top: 8px; margin-bottom: 4px; letter-spacing: -0.02em;">
-    ANMOL KUMAR
-  </h1>
-
-  <p align="center" style="color: #94a3b8; font-size: 1rem;">
-    <strong>Autonomous AI Engineer • Full-Stack Systems • Motion Architect</strong>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=090d16,064e3b,10b981&height=200&section=header&text=ANMOL%20KUMAR&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Autonomous%20AI%20Systems%20%E2%80%A2%20Full-Stack%20Engineer&descSize=17&descColor=10b981" width="100%" alt="Anmol Kumar Header" />
 
   <p align="center">
     <a href="https://portfolio-anmol.pages.dev"><img src="https://img.shields.io/badge/●_PORTFOLIO-090d16?style=flat-square&logo=cloudflarepages&logoColor=10b981" alt="Portfolio" /></a>
@@ -20,52 +12,29 @@
 
 </div>
 
-```text
-┌─── ANMOL_CORE :: SYSTEM TELEMETRY v2.6 ──────────────────────────────────────┐
-│  STATUS: ONLINE [●]  │  NODE: IND-NORTH  │  LATENCY: 12ms  │  MODE: MATRIX-GREEN│
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+### 🛰️ Core Projects & Autonomous Systems
 
-### 🛰️ Subsystems & Agent Swarm
+| System | Role / Type | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| **[PISTON-STUDIO](https://github.com/Anmolop97/PISTON-STUDIO)** | Visual Motion Engine & Runtime | TypeScript, React 19, Motion | `⚡ Active` |
+| **[Agent-Skills](https://github.com/Anmolop97/Agent-Skills)** | Autonomous Workflows for AI Agents | Python, Claude Code, Tools | `🟢 Running` |
+| **[Canon-Studio](https://github.com/Anmolop97/Canon-Studio)** | Narrative Continuity & State AI | TypeScript, State Graphs | `🧠 Standby` |
+| **[claude-seo](https://github.com/Anmolop97/claude-seo)** | Universal SEO Agent (26 Sub-skills) | Prompt Engineering, CLI | `🚀 Deployed` |
+| **[myCat](https://github.com/Anmolop97/myCat)** | Desktop Companion QT Overlay | Python, GUI, QT | `🐾 Idle` |
 
-```mermaid
-flowchart LR
-    subgraph CORE["ANMOL_CORE"]
-        direction TB
-        AGENT["🛰️ Autonomous Agent Swarm"]
-    end
-    AGENT --> S1["⚡ PISTON-STUDIO<br/><sub>Visual Motion Runtime</sub>"]
-    AGENT --> S2["🧠 Canon-Studio<br/><sub>Adaptive Narrative AI</sub>"]
-    AGENT --> S3["📦 Agent-Skills<br/><sub>Execution Runtimes</sub>"]
-    AGENT --> S4["🚀 claude-seo<br/><sub>Universal SEO Engine</sub>"]
+---
 
-    style CORE fill:#060d09,stroke:#10b981,stroke-width:2px,color:#10b981
-    style AGENT fill:#0b1912,stroke:#10b981,stroke-width:1px,color:#f8fafc
-    style S1 fill:#0b1912,stroke:#10b981,stroke-width:1px,color:#f8fafc
-    style S2 fill:#0b1912,stroke:#10b981,stroke-width:1px,color:#f8fafc
-    style S3 fill:#0b1912,stroke:#10b981,stroke-width:1px,color:#f8fafc
-    style S4 fill:#0b1912,stroke:#10b981,stroke-width:1px,color:#f8fafc
-```
+### ⚡ Neural Stack & Tooling
 
-### ⚙️ Telemetry Matrix
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,react,next,tailwind,vite,linux,git&theme=dark" />
+</p>
 
 ```ini
 [SYSTEM_KERNEL]
 Host        = B.Tech CSE (Autonomous Subsystem)
 Directive   = Building resilient full-stack systems & multi-agent developer tooling
 Environment = Linux / x86_64 • Cloudflare Workers • Node/Bun Runtime
-
-[NEURAL_STACK]
-Languages   = TypeScript (98%) • JavaScript (95%) • Python (90%) • C++ (82%)
-Frameworks  = React 19 • Next.js 15 • Tailwind CSS • Vite • Framer Motion
-AI_Protocol = Antigravity Agent • Claude Code • Model Context Protocol (MCP)
-
-[ACTIVE_PROCESSES]
-PID 101  🟢 RUNNING   Agent-Skills     :: Automated workflows & AI toolings
-PID 102  ⚡ ACTIVE    PISTON-STUDIO    :: Web-based visual motion studio
-PID 103  🧠 STANDBY   Canon-Studio     :: Narrative continuity & state graphs
-PID 104  🚀 DEPLOYED  claude-seo       :: Universal SEO engine (26 skills + 19 agents)
-PID 105  🐾 IDLE      myCat            :: Desktop companion (QT overlay)
 ```
 
 ---
