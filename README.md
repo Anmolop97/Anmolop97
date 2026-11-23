@@ -1,6 +1,14 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=090d16,064e3b,10b981&height=200&section=header&text=ANMOL%20KUMAR&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Autonomous%20AI%20Systems%20%E2%80%A2%20Full-Stack%20Engineer&descSize=17&descColor=10b981" width="100%" alt="Anmol Kumar Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,100:10b981&height=120&section=header" width="100%" alt="Cyber Header" />
+
+  <h1 align="center" style="font-size: 2.3rem; font-weight: 800; margin-top: 12px; margin-bottom: 4px; letter-spacing: -0.02em;">
+    ANMOL KUMAR
+  </h1>
+
+  <p align="center" style="font-size: 1.05rem; color: #10b981; font-weight: 600; margin-top: 0; margin-bottom: 14px;">
+    Autonomous AI Systems • Full-Stack Engineer • Motion Architect
+  </p>
 
   <p align="center">
     <a href="https://portfolio-anmol.pages.dev"><img src="https://img.shields.io/badge/●_PORTFOLIO-090d16?style=flat-square&logo=cloudflarepages&logoColor=10b981" alt="Portfolio" /></a>
