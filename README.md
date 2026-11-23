@@ -3,7 +3,7 @@
   <img src="./assets/header.svg" width="100%" alt="Anmol Kumar Header" />
 
   <p align="center">
-    <a href="https://portfolio-anmol.pages.dev"><img src="https://img.shields.io/badge/●_PORTFOLIO-090d16?style=flat-square&logo=cloudflarepages&logoColor=10b981" alt="Portfolio" /></a>
+    <a href="https://portfolio-anmol.pages.dev"><img src="https://img.shields.io/badge/●_PORTFOLIO-090d16?style=flat-square&logo=cloudflarepages&logoColor=10b981" alt="Anmol Kumar Portfolio" /></a>
     &nbsp;
     <a href="https://github.com/Anmolop97?tab=repositories"><img src="https://img.shields.io/badge/●_REPOSITORIES-090d16?style=flat-square&logo=github&logoColor=10b981" alt="Repos" /></a>
     &nbsp;
