@@ -1,79 +1,81 @@
 <div align="center">
 
-  <img src="./assets/logo.png" width="110" alt="Anmol Kumar Logo" style="filter: drop-shadow(0px 0px 18px rgba(56, 189, 248, 0.4));" />
+  <img src="./assets/logo.png" width="95" alt="Anmol Kumar Logo" style="filter: drop-shadow(0px 0px 22px rgba(16, 185, 129, 0.45));" />
 
-  <h1 align="center" style="font-weight: 800; font-size: 2.4rem; margin-top: 10px; margin-bottom: 5px;">
+  <h1 align="center" style="font-weight: 800; font-size: 2.2rem; margin-top: 8px; margin-bottom: 4px; letter-spacing: -0.02em;">
     ANMOL KUMAR
   </h1>
 
-  <p align="center">
-    <strong>Creative Software Engineer • Full-Stack Developer • Agentic AI Enthusiast</strong>
+  <p align="center" style="color: #94a3b8; font-size: 1rem;">
+    <strong>Autonomous AI Engineer • Full-Stack Systems • Motion Architect</strong>
   </p>
 
   <p align="center">
-    <a href="https://portfolio-anmol.pages.dev"><img src="https://img.shields.io/badge/Anmol_Kumar_Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Anmol Kumar Portfolio" /></a>
-    <a href="https://github.com/Anmolop97?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-    <a href="mailto:anmolkumar2762@gmail.com"><img src="https://img.shields.io/badge/Direct_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://portfolio-anmol.pages.dev"><img src="https://img.shields.io/badge/●_PORTFOLIO-090d16?style=flat-square&logo=cloudflarepages&logoColor=10b981" alt="Portfolio" /></a>
+    &nbsp;
+    <a href="https://github.com/Anmolop97?tab=repositories"><img src="https://img.shields.io/badge/●_REPOSITORIES-090d16?style=flat-square&logo=github&logoColor=10b981" alt="Repos" /></a>
+    &nbsp;
+    <a href="mailto:anmolkumar2762@gmail.com"><img src="https://img.shields.io/badge/●_DIRECT_PING-090d16?style=flat-square&logo=gmail&logoColor=10b981" alt="Mail" /></a>
   </p>
 
 </div>
 
+```text
+┌─── ANMOL_CORE :: SYSTEM TELEMETRY v2.6 ──────────────────────────────────────┐
+│  STATUS: ONLINE [●]  │  NODE: IND-NORTH  │  LATENCY: 12ms  │  MODE: MATRIX-GREEN│
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+### 🛰️ Subsystems & Agent Swarm
+
+```mermaid
+flowchart LR
+    subgraph CORE["ANMOL_CORE"]
+        direction TB
+        AGENT["🛰️ Autonomous Agent Swarm"]
+    end
+    AGENT --> S1["⚡ PISTON-STUDIO<br/><sub>Visual Motion Runtime</sub>"]
+    AGENT --> S2["🧠 Canon-Studio<br/><sub>Adaptive Narrative AI</sub>"]
+    AGENT --> S3["📦 Agent-Skills<br/><sub>Execution Runtimes</sub>"]
+    AGENT --> S4["🚀 claude-seo<br/><sub>Universal SEO Engine</sub>"]
+
+    style CORE fill:#060d09,stroke:#10b981,stroke-width:2px,color:#10b981
+    style AGENT fill:#0b1912,stroke:#10b981,stroke-width:1px,color:#f8fafc
+    style S1 fill:#0b1912,stroke:#10b981,stroke-width:1px,color:#f8fafc
+    style S2 fill:#0b1912,stroke:#10b981,stroke-width:1px,color:#f8fafc
+    style S3 fill:#0b1912,stroke:#10b981,stroke-width:1px,color:#f8fafc
+    style S4 fill:#0b1912,stroke:#10b981,stroke-width:1px,color:#f8fafc
+```
+
+### ⚙️ Telemetry Matrix
+
+```ini
+[SYSTEM_KERNEL]
+Host        = B.Tech CSE (Autonomous Subsystem)
+Directive   = Building resilient full-stack systems & multi-agent developer tooling
+Environment = Linux / x86_64 • Cloudflare Workers • Node/Bun Runtime
+
+[NEURAL_STACK]
+Languages   = TypeScript (98%) • JavaScript (95%) • Python (90%) • C++ (82%)
+Frameworks  = React 19 • Next.js 15 • Tailwind CSS • Vite • Framer Motion
+AI_Protocol = Antigravity Agent • Claude Code • Model Context Protocol (MCP)
+
+[ACTIVE_PROCESSES]
+PID 101  🟢 RUNNING   Agent-Skills     :: Automated workflows & AI toolings
+PID 102  ⚡ ACTIVE    PISTON-STUDIO    :: Web-based visual motion studio
+PID 103  🧠 STANDBY   Canon-Studio     :: Narrative continuity & state graphs
+PID 104  🚀 DEPLOYED  claude-seo       :: Universal SEO engine (26 skills + 19 agents)
+PID 105  🐾 IDLE      myCat            :: Desktop companion (QT overlay)
+```
+
 ---
 
-###  About Me
-
--  **Engineering**: Building resilient full-stack systems, fluid interactive web applications, and autonomous AI developer tooling.
--  **Core Philosophy**: Master fundamentals, write deterministic clean code, optimize for performance, and iterate with velocity.
--  **Environment**: Full-Stack TypeScript/JavaScript, React/Next.js ecosystem, modern CSS architectures, and agentic workflows.
-
----
-
-###  Tech Stack & Engineering Arsenal
+### 📊 Realtime Metrics
 
 <div align="center">
-
-  ####  Languages & Core
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </p>
-
-  ####  Frameworks, UI & Libraries
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-    <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  </p>
-
-  ####  AI, Tooling & DevOps
-  <p>
-    <img src="https://img.shields.io/badge/Antigravity_Agent-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" />
-    <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-    <img src="https://img.shields.io/badge/MCP_Protocol-10B981?style=for-the-badge&logo=connectwise&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_CLI-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Anmolop97&show_icons=true&hide_border=true&title_color=10b981&icon_color=10b981&text_color=94a3b8&bg_color=090d16" width="49%" alt="Anmol's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolop97&layout=compact&hide_border=true&title_color=10b981&text_color=94a3b8&bg_color=090d16" width="45%" alt="Top Languages" />
 </div>
-
----
-
-###  GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anmolop97&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" width="49%" alt="Anmol's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmolop97&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" width="45%" alt="Top Languages" />
-</div>
-
----
 
 <div align="center">
   <sub><i>"The best way to predict the future is to build it."</i> • Anmol Kumar</sub>
