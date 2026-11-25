@@ -113,5 +113,3 @@ I'm a B.Tech CSE student who genuinely enjoys programming and understanding.</su
 <td width="38%" valign="middle" align="right"><a href="https://github.com/anmolop97">GitHub</a><br /><a href="https://portfolio-anmol.pages.dev/">Website</a></td>
 </tr>
 </table>
-
-<p align="center"><sub>Anmol Kumar · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
